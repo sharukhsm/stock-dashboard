@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sharukhsm/stock-dashboard.git/static/css/main.55cd11dc.css",
-    "main.js": "/sharukhsm/stock-dashboard.git/static/js/main.0cf1afb5.js",
-    "index.html": "/sharukhsm/stock-dashboard.git/index.html",
-    "main.55cd11dc.css.map": "/sharukhsm/stock-dashboard.git/static/css/main.55cd11dc.css.map",
-    "main.0cf1afb5.js.map": "/sharukhsm/stock-dashboard.git/static/js/main.0cf1afb5.js.map"
+    "main.css": "/stock-dashboard/static/css/main.55cd11dc.css",
+    "main.js": "/stock-dashboard/static/js/main.702e472d.js",
+    "index.html": "/stock-dashboard/index.html",
+    "main.55cd11dc.css.map": "/stock-dashboard/static/css/main.55cd11dc.css.map",
+    "main.702e472d.js.map": "/stock-dashboard/static/js/main.702e472d.js.map"
   },
   "entrypoints": [
     "static/css/main.55cd11dc.css",
-    "static/js/main.0cf1afb5.js"
+    "static/js/main.702e472d.js"
   ]
 }
